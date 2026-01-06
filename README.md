@@ -1,16 +1,29 @@
-# React + Vite
+# Premier College Landing & Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+This is a React.js project for a fictional online college. It includes a landing page, sign-up and login pages, and a dashboard with interactive cards and features.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Project Features
 
-## React Compiler
+- Hero section with background image and call-to-action
+- Sign-up and Login pages with form validation
+- Dashboard with cards, statistics, and recent activity
+- Modern UI with hover animations
+- Responsive design for mobile and desktop
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tools / Libraries Used
 
-## Expanding the ESLint configuration
+- React.js
+- React Router DOM
+- React Icons
+- Vite (for project bundling)
+- CSS (for styling)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Setup Instructions
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/rahwa21-ux/college-landing-dashboard.git
+```
